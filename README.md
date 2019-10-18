@@ -1,11 +1,11 @@
 # bitbucket-deploy
 ### Php Script for Git Pull in your web server
 
----
+-
 
 ## Getting Started
 
-Put `bitbucket-deploy` to your `/` of project.
+Put `pull.php` to your `/` of project.
 
 ## Setting
 
