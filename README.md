@@ -5,11 +5,18 @@
 
 ## Getting Started
 
-Put `bitbucket-deploy` to your `/`
+Put `bitbucket-deploy` to your `/` of project.
 
 ## Setting
 
+Setting your Bitbucket information.
 
+```php
+# SETTING
+define('BITBUCKET_NAME', '');
+define('GIT_PASSWORD', '');
+define('REPOSITORY_NAME', '');
+```
 
 ## Usage
 
