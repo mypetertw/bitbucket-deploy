@@ -1,7 +1,7 @@
 # bitbucket-deploy
 ### Php Script for Git Pull in your web server
 
--
+---
 
 ## Getting Started
 
